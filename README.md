@@ -46,3 +46,9 @@ Consistent brand identity
 Mobile-first responsive layouts
 
 Improved booking workflow usability
+
+👨‍💻 Authors & Credits
+
+UI/UX Lead: Shihab Ahmed
+
+Organization: Vorsprung Solutions
