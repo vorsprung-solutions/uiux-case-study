@@ -26,3 +26,23 @@ uiux-case-study-softcar/
  ┣ 📂 presentations/    # Testimonials, decks
  ┣ 📂 exports/          # Figma/Sketch exports
  ┗ README.md
+
+
+---
+🛠️ Tools & Technologies
+
+Design: Figma, Adobe XD
+
+Case Study Publication: Behance
+
+Presentation: Google Slides / PDF
+
+🌟 Highlights
+
+User-centered design approach
+
+Consistent brand identity
+
+Mobile-first responsive layouts
+
+Improved booking workflow usability
